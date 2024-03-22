@@ -1,0 +1,12 @@
+sources:
+-https://www.mathworks.com/matlabcentral/answers/413064-app-designer-how-to-open-a-second-gui-or-a-new-window-with-panels-lamps-edit-fields-etc-by-a-bu
+-https://www.mathworks.com/help/matlab/ref/questdlg.html#d123e1151112
+-https://www.mathworks.com/help/matlab/ref/imresize.html
+-https://www.mathworks.com/help/matlab/ref/matlab.ui.control.slider-properties.html
+-https://www.mathworks.com/help/matlab/creating_guis/share-data-across-callbacks-in-app-designer.html
+-https://www.mathworks.com/matlabcentral/answers/347448-how-to-increase-the-brightness-of-an-image
+-https://www.mathworks.com/help/images/ref/imadjust.html
+-https://www.mathworks.com/help/images/ref/imsharpen.html
+-https://stackoverflow.com/questions/6536737/increase-image-saturation
+-https://www.mathworks.com/matlabcentral/answers/10608-increase-rgb-image-saturation
+-https://www.mathworks.com/help/matlab/ref/warndlg.html 
